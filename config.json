@@ -1,42 +1,42 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
-		"description": "Author:SimonMa,Category:Personal Blog",
+		"title": "WanFei's HomePage",
+		"description": "WanFei's HomePage",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
+		"title": "Wan Fei",
+		"subtitle": "An unknown little webmaster",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "Wan Fei",
+		"signature": "Lang & Gao & Pang",
 		"avatar": {
-			"link": "assets/avatar.jpg",
-			"height": "100",
-			"width": "100"
+			"link": "assets/avatar.png",
+			"height": "120",
+			"width": "120"
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://blog.wanfei.cc/",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://blog.wanfei.cc/about/",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:wanfei@chengyang.org",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/azucool",
 				"icon": "github",
 				"text": "Github"
 			}
