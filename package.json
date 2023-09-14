@@ -6,7 +6,7 @@
   "homepage": "http://tomotoes.com",
   "repository": "https://github.com/Tomotoes/HomePage",
   "bugs": "https://github.com/Tomotoes/HomePage/issues",
-  "description": "Tomotoes-HomePage",
+  "description": "Wanfei-HomePage",
   "scripts": {
     "predev": "gulp build",
     "dev": "gulp watch",
@@ -28,8 +28,9 @@
     "gulp-htmlmin": "^5.0.1",
     "gulp-minify": "^3.1.0",
     "gulp-pug": "^4.0.1",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
-    "node-sass": "^4.12.0"
+    "node-sass": "^9.0.0",
+    "sass": "^1.66.1"
   }
 }
