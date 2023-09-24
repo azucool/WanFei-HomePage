@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "WanFei's HomePage",
-		"description": "WanFei's HomePage",
+		"title": "万飞网",
+		"description": "万飞网",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Wan Fei",
-		"subtitle": "An unknown little webmaster",
-		"enter": "enter",
+		"title": "万 飞 网",
+		"subtitle": "冀ICP备17004242号",
+		"enter": "进入",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "Wan Fei",
-		"signature": "Lang & Gao & Pang",
+		"name": "万 飞",
+		"signature": "一个默默无闻的小站长",
 		"avatar": {
 			"link": "https://gh.xuimg.com/file/f66bdfa8f4dfe4fbf4168.jpg",
 			"height": "120",
@@ -21,14 +21,14 @@
 		},
 		"ul": {
 			"first": {
-				"href": "https://www.wanfei.cc/",
+				"href": "https://cn.wanfei.cc/",
 				"icon": "bokeyuan",
-				"text": "Home"
+				"text": "主页"
 			},
 			"second": {
 				"href": "mailto:hi@wanfei.cc",
 				"icon": "email",
-				"text": "Email"
+				"text": "邮箱"
 			}
 		}
 	}
