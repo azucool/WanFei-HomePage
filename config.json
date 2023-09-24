@@ -21,24 +21,14 @@
 		},
 		"ul": {
 			"first": {
-				"href": "https://blog.wanfei.cc/",
+				"href": "https://www.wanfei.cc/",
 				"icon": "bokeyuan",
-				"text": "Blog"
+				"text": "Home"
 			},
 			"second": {
-				"href": "https://about.wanfei.cc/",
-				"icon": "xiaolian",
-				"text": "About"
-			},
-			"third": {
 				"href": "mailto:hi@wanfei.cc",
 				"icon": "email",
 				"text": "Email"
-			},
-			"fourth": {
-				"href": "https://github.com/azucool",
-				"icon": "github",
-				"text": "Github"
 			}
 		}
 	}
