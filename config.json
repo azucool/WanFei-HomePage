@@ -1,11 +1,11 @@
 {
 	"head": {
-		"title": "万飞网",
-		"description": "万飞网",
+		"title": "万 飞",
+		"description": "万 飞",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "万 飞 网",
+		"title": "万 飞",
 		"subtitle": "萌ICP备20233023号",
 		"enter": "进入",
 		"supportAuthor": true,
@@ -22,10 +22,15 @@
 		"ul": {
 			"first": {
 				"href": "https://cn.wanfei.cc/",
-				"icon": "bokeyuan",
+				"icon": "xiaolian",
 				"text": "主页"
 			},
 			"second": {
+				"href": "https://cn.wanfei.cc/blog/",
+				"icon": "bokeyuan",
+				"text": "博客"
+			},
+			"third": {
 				"href": "mailto:hi@wanfei.cc",
 				"icon": "email",
 				"text": "邮箱"
