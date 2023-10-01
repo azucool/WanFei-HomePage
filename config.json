@@ -22,13 +22,18 @@
 		"ul": {
 			"first": {
 				"href": "https://www.wanfei.cc/",
-				"icon": "bokeyuan",
+				"icon": "xiaolian",
 				"text": "Home"
 			},
 			"second": {
 				"href": "mailto:hi@wanfei.cc",
 				"icon": "email",
 				"text": "Email"
+			},
+			"third": {
+				"href": "https://cn.wanfei.cc/",
+				"icon": "bokeyuan",
+				"text": "中文"
 			}
 		}
 	}
